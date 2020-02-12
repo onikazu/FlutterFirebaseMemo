@@ -3,7 +3,7 @@
 Online memo app made by flutter and firebase
 
 ## TODO
-- [ ] firebase configuration
-- [ ] implement signin window, signup window and home window
-- [ ] implement authentication 
-- [ ] 
+- [x] firebase configuration
+- [x] implement sign in window, sign up window and home window
+- [x] implement authentication 
+- [ ] implement 
